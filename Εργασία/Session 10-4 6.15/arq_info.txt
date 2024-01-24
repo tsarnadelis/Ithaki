@@ -1,0 +1,2 @@
+Packet error count:404
+BER:0.19348659003831417
